@@ -1,6 +1,6 @@
 # Elokuvasovellus_review
-* Pystyin kirjautumaan sisään ja luomaan uuden tunnukse ylläpitäjän toiminnot toimivat ja sain lisättyää elokuvia ja arvosteluja sivulle. Arvostelujen poisto, hakutointo ja elokuvan tietojen muokkaus toimii myös. Sovelluksen luvatun toiminnalisuudet toimivat siis hyvin.
-* Sovelluksessa on toteutettu rakenne hyvin ja ohjeet testaajalle olivat selkeät.
+* Pystyin kirjautumaan sisään ja luomaan uuden tunnuksen. Ylläpitäjän toiminnot toimivat ja sain lisättyää elokuvia ja arvosteluja sivulle. Arvostelujen poisto, hakutointo ja elokuvan tietojen muokkaus toimii myös. Sovelluksen luvatut toiminnalisuudet toimivat siis hyvin.
+* Sovelluksessa on toteutettu python rakenne hyvin ja ohjeet testaajalle olivat selkeät.
 * Sovelluksessa tulisi olla vielä enemmän tietokantoja.
 * Tietoturva-asiat kunnossa
 * Ulkoasua tulee alkaa työstämään
