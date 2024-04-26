@@ -1,2 +1,2 @@
 # Elokuvasovellus_review
-Tshohan toinen arvostelu.
+Pystyin kirjautumaan sisään ja luomaan uuden tunnukse ylläpitäjän toiminnot toimivat ja sain lisättyää elokuvia ja arvosteluja sivulle.
